@@ -5,7 +5,11 @@ const resultDisplay=document.getElementById("resultDisplay");
 const playerScore=document.getElementById("playerScore");
  const computerScore=document.getElementById("computerScore");
  const draw=document.getElementById("draw");
-   let myscore=0;
+   let myscore=0;// updating my current wins
+
+
+
+
    let computer=0;
    let drawc=0;
 
